@@ -106,6 +106,8 @@ when you switch back to its window. If both copies changed, a `songbook.conflict
 | ![Overview](docs/screenshots/01-main-overview.png) | ![Lyrics](docs/screenshots/02-lyrics-rhymes.png) |
 | ![Arrangement](docs/screenshots/03-arrangement.png) | ![Memos](docs/screenshots/04-voice-memos.png) |
 
+Rendered by the actual Windows build in CI (on GitHub's small 1024×768 runner screen): [`docs/screenshots/windows/`](docs/screenshots/windows/).
+
 ## For developers
 
 - Python 3.12 + **PySide6 (Qt 6)** + PyInstaller. Fonts: Inter & Oswald (SIL OFL, bundled).
